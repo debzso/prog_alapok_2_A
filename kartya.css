@@ -2,7 +2,7 @@
 
 
 body {
-    background: url('aszok.png');
+    background: url('aszok.png') blue;
     background-size: 300px;
 }
 
